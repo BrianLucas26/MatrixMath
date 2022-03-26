@@ -1,4 +1,6 @@
-// Matrix Calculator
+/* Matrix Calculator
+   Author: Brian Lucas
+*/
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
