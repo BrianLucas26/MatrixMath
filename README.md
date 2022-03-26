@@ -1,4 +1,4 @@
-# MatrixMath
+# MatrixMath ##### Brian Lucas
 This is a tool I created using Java Swift to conduct matrix operation, inspired by my lack of desire to complete my linear algebra homework. Currently supports add, subtract, multiply, and inverse operations. 
 ## How it works
 When running the program, the first UI that opens will prompt the user to select the operation of their choosing.
